@@ -9,7 +9,7 @@ An independent, evidence led test of whether extra funding turns into extra trea
 
 ## The claim being tested
 
-In its analysis headlined "NHS wastes billions doled out by Labour" (Laura Donnelly and Ben Butcher, The Telegraph, date and link to be added), the newspaper compared 111 acute and specialist trusts across April to July. It reported that trusts in the half with the biggest funding increases saw productivity fall on average, while trusts in the other half saw it rise. The chair of NHS England was reported as describing a "significant reduction in productivity" alongside a large spending rise.
+In its analysis headlined "NHS wastes billions doled out by Labour" (Laura Donnelly and Ben Butcher, The Telegraph, published 22 November 2026), the newspaper compared 111 acute and specialist trusts across April to July 2026 against the same period a year earlier. It reported that trusts in the half with the biggest funding increases saw productivity fall on average, while trusts in the other half saw it rise. The article itself notes that its statistics are provisional, cover four months, and weight treatment volumes by average cost rather than measuring outcomes. The chair of NHS England was reported as describing a "significant reduction in productivity" alongside a large spending rise.
 
 This project does not take a side on the politics. It asks a narrower question: **does that relationship survive a proper test?**
 
